@@ -121,6 +121,8 @@ results = recommend_exercises(
 
 Project Structure
 .
+## Project Structure
+.
 ├── app.py
 ├── quickstart.py
 ├── requirements.txt
@@ -135,7 +137,6 @@ Project Structure
 └── src/
     ├── recommender.py
     └── utils.py
-
 Notes
 - The description mode requires precomputed embeddings in data/data_with_bert.pkl.
 - If you modify the dataset, you must regenerate BERT embeddings.
