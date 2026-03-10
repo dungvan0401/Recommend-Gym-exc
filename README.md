@@ -119,6 +119,7 @@ results = recommend_exercises(
     top_k=15
 )
 
+```
 ## Project Structure
 .
 ├── app.py
@@ -135,7 +136,7 @@ results = recommend_exercises(
 └── src/
     ├── recommender.py
     └── utils.py
-
+```
 Notes
 - The description mode requires precomputed embeddings in data/data_with_bert.pkl.
 - If you modify the dataset, you must regenerate BERT embeddings.
