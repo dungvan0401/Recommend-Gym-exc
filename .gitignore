@@ -8,5 +8,4 @@ __pycache__/
 *.log
 
 # large model weights
-*.safetensors
 .DS_Store
