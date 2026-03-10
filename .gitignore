@@ -9,3 +9,4 @@ __pycache__/
 
 # large model weights
 *.safetensors
+.DS_Store
