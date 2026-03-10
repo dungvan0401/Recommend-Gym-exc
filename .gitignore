@@ -5,3 +5,7 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 .env
+*.log
+
+# large model weights
+*.safetensors
